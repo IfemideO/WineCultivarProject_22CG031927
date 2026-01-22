@@ -1,0 +1,6 @@
+Name: Ifemide Olusola Oluwafunmi
+Matric Number: 22CG031927
+Machine Learning Algorithm Used: Logistic Regression (or whatever you used)
+Model persistence method used: Joblib
+Live URL of the hosted application: https://your-app-name.onrender.com
+GitHub repository link: https://github.com/yourusername/your-repo
